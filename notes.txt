@@ -1,0 +1,44 @@
+📁 dart_basics/
+└── 📁 week1/
+    ├── day1_intro.dart
+        - Variables: var, final, const
+        - Types: int, double, String, bool
+        - String interpolation
+        - Basic control flow: if/else, for loop
+
+    ├── day2_functions.dart
+        - Function syntax
+        - Positional and named parameters
+        - Default values
+        - switch-case
+        - Return values
+
+    ├── day3_collections.dart
+        - Lists: add, remove, loop
+        - Sets: uniqueness
+        - Maps: key-value usage
+        - Looping: forEach, map, where
+
+    ├── day4_classes.dart
+        - Class & object creation
+        - Constructors
+        - Methods
+        - Inheritance and `super`
+        - Method override
+
+    ├── day5_nullables.dart
+        - Null safety: `?`, `!`, `late`, `required`
+        - Null-aware operators: `??`, `?.`
+        - Enums and switch with enums
+
+    ├── day6_async.dart
+        - Futures and `async/await`
+        - Delays with `Future.delayed`
+        - Error handling with `try/catch`
+        - Simulated API calls
+
+    ├── day7_project.dart
+        - Mini CLI project combining all:
+            - List for data storage
+            - Functions for logic
+            - Optional: user input (if using `dart:io`)
